@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legumes>
+    <courges>
+        <nom>potimarron</nom>           
+            <nom_latin>cucurbita maxima Duchesne</nom_latin>
+             <caracteristiques>
+                <couleur>rouge à rouge brique</couleur>
+                <poids>entre 1 et 3 kg</poids>
+                <vitamines>A, B et C</vitamines>
+            </caracteristiques>
+        <nom>citrouille</nom>
+            <nom_latin>curcubita pepo L</nom_latin>
+            <caracteristiques>
+                <couleur>orange à rouge</couleur>
+                <poids>jusqu'à 1190,5kg</poids>
+                <vitamines>C et E</vitamines>
+            </caracteristiques>
+    </courges>
+    <solanacees>
+        <nom>aubergine</nom>
+            <nom_latin>solanum melongena L</nom_latin>
+                <caracteristiques>
+                    <couleur>voir violacé</couleur>
+                    <poids>225 g/moy</poids>
+                    <vitamines>B1, B6, C et K</vitamines>
+                </caracteristiques>
+        <nom>tomate</nom>
+            <nom_latin>lycopersicon</nom_latin>
+                <caracteristiques>
+                    <couleur>rouge, jaune, violet, orange ou noir</couleur>
+                    <poids>130 à 150 g/moy</poids>
+                    <vitamines>B3, B5, B9, C et lycopène</vitamines>
+                </caracteristiques>
+        <nom>piment</nom>
+            <nom_latin>capsicum annuum</nom_latin>
+                <caracteristiques>
+                    <couleur>rouge, vert ou jaune</couleur>
+                    <poids>100 g/moy</poids>
+                    <vitamines>A, B6, C, E K et PP</vitamines>
+                </caracteristiques>
+    </solanacees>
+    <oignons>
+        <nom>poireau</nom>
+            <nom_latin>allium porrum</nom_latin>
+                <caracteristiques>
+                    <couleur>blanc, vert</couleur>
+                    <poids>150 g</poids>
+                    <vitamines>A, B1, B2, B3, B9 (acide folique) et C</vitamines>
+                </caracteristiques>
+    </oignons>
+</legumes>
+
+

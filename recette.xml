@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recette>
+    <crepe_bretonne>
+        <sucree>
+            <ingredients>
+                <farine>250 g farine de blé</farine> 
+                <sucre>70 g sucre roux, 1 sachet sucre vanillé</sucre>
+                <huile>1 cas huile de tournesol</huile> 
+                <sel>une pincée de sel</sel> 
+                <alcool>rhum</alcool>
+                <oeufs>2 oeufs</oeufs>
+                <lait>1/2L lait</lait> 
+            </ingredients>
+            <ustenciles>
+                <louche>1 louche</louche>
+                <cuilliere>1 cuillère en bois</cuilliere>
+                <poele>poêle à crêpes</poele>
+            </ustenciles>
+            <temps_preparation>35 minutes</temps_preparation>
+        </sucree>
+        <salee>
+            <ingredients>
+                <farine>farine de blé noir</farine>
+                <sel>1 pincée de gros sel</sel>
+                <eau>75cl eau froide</eau>
+                <oeuf>1 oeuf</oeuf>
+            </ingredients>
+            <ustenciles>
+                <saladier>1 saladier</saladier>
+                <cuilliere>cuillère en bois</cuilliere>
+                <fouet>1 fouet de cuisine</fouet>
+                <louche>1 louche</louche>
+                <louche>1 louche</louche>
+            </ustenciles>
+            <temps_preparation>20 minutes</temps_preparation>
+        </salee>
+    </crepe_bretonne>
+</recette>
+        
+    

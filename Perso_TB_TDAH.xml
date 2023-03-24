@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<celebrites_TB_TDAH>
+    <trouble_bipolaire>
+        <acteurs_realisateurs>
+            <genre>
+                <femme>
+                    <nom>Marilyn Monroe</nom>
+                    <nom>Audrey Heburn</nom>
+                    <nom>Drew Barrymore</nom>
+                    <nom>Catherine Zeta-Jones</nom>
+                </femme>
+                <homme>
+                    <nom>Robin Williams</nom>
+                    <nom>Jim Carrey</nom>
+                    <nom>Mel Gibson</nom>
+                    <nom>Jean-Claude Van Damme</nom>
+                    <nom>Benoît Poolvorde</nom>
+                    <nom>Ben Stiller</nom>
+                    <nom>Tim Burton</nom>
+                    <nom>Marlon Brando</nom>
+                </homme>
+            </genre>
+        </acteurs_realisateurs>
+        <politiciens>
+            <genre>
+                <femme>
+                    <nom>La Reine Elisabeth 1er</nom>
+                </femme>
+                <homme>
+                    <nom>Abraham Lincoln</nom>
+                    <nom>Winston Churchill</nom>
+                    <nom>Robert Schumann</nom>
+                    <nom>Napoléon Bonaparte</nom>
+                    <nom>Alexandre le Grand</nom>
+                    <nom>Boris Yeltsine</nom>
+                    <nom>Théodore Roosvelt</nom>
+                    <nom>Richard Nixon</nom>
+                </homme>
+            </genre>
+        </politiciens>
+        <chanteurs_rapeurs>
+            <genre>
+                <femme>
+                    <nom>Diam's</nom>
+                    <nom>Maria Carey</nom>
+                    <nom>Britney Spears</nom>
+                    <nom>Amy Winehouse</nom>
+                    <nom>Lily Allen</nom>
+                    <nom>Alanis Morissette</nom>
+                    <nom>Sheryl Crow</nom>
+                </femme>
+                <homme>
+                    <nom>Kayne West</nom>
+                    <nom>Franck Sinatra</nom>
+                    <nom>Kurt Cobain</nom>
+                    <nom>Jimi Hendrix</nom>
+                    <nom>Sting</nom>
+                </homme>
+            </genre>
+        </chanteurs_rapeurs>
+        <ecrivains_poetes_artistes>
+            <genre>
+                <femme>
+                    <nom>Agatha Christie</nom>
+                    <nom>Kim Novak</nom>
+                    <nom>Emily Dickinson</nom>
+                    <nom>George Sand</nom>
+                </femme>
+                <homme>
+                    <nom>Alfred de Musset</nom>
+                    <nom>Alexandre Pouchkine</nom>
+                    <nom>Charles Baudelaire</nom>
+                    <nom>Charles Dickens</nom>
+                    <nom>Ernest Hemingwway</nom>
+                    <nom>Edgar Allan Poe</nom>
+                    <nom>Emile Zola</nom>
+                    <nom>F. Scott Fitzgerald</nom>
+                    <nom>Guy de Maupassant</nom>
+                    <nom>Hans Christian Andersen</nom>
+                    <nom>Honoré de Balzac</nom>
+                    <nom>Joseph Conrad</nom>
+                    <nom>Leon Tolstoï</nom>
+                    <nom>Lewis Caroll</nom>            
+                    <nom>Stendhal</nom>
+                    <nom>Victor Hugo</nom>
+                    <nom>Vincent Van Gogh</nom>
+                </homme>
+            </genre>
+        </ecrivains_poetes_artistes>
+        <scientifiques_philosophes>
+            <genre>
+                <femme>
+                </femme>
+                <homme>
+                    <nom>Friederich Nietzsche</nom>
+                    <nom>Isaac Newton</nom>
+                    <nom>Sigmund Freud</nom>
+                    <nom>Charles Darwin</nom>
+                </homme>
+            </genre>
+        </scientifiques_philosophes>
+    </trouble_bipolaire>
+    <tdah>
+        <chanteurs>
+            <genre>
+                <femme>
+                    <nom>Avril Lavigne</nom>
+                    <nom>Shakira</nom>
+                </femme>
+                <homme>
+                    <nom>Justin Timberlake</nom>
+                    <nom>Stevie Wonder</nom>
+                    <nom>Amir</nom>            
+                    <nom>Adam Levine Maroon 5</nom>
+                    <nom>Billie Eilish</nom>            
+                    <nom>Will I am</nom>
+                </homme> 
+            </genre>           
+        </chanteurs>
+        <acteurs>
+            <genre>
+                <femme>
+                    <nom>Emma Watson</nom> 
+                    <nom>Emilia Clarke</nom>
+                    <nom>Jessica Alba</nom> 
+                    <nom>Hilary Duff</nom> 
+                    <nom>Mila Kunis</nom> 
+                </femme>
+                <homme>
+                <nom>Channing Tatum</nom>
+                </homme>   
+            </genre>       
+        </acteurs>
+        <sportifs>
+            <genre>
+                <femme>
+                </femme>
+                <homme>
+                    <nom>Michael Jordan</nom>
+                    <nom>Michael Phelps</nom>
+                </homme>
+            </genre>
+        </sportifs>
+        <personnalites>
+            <genre>
+                <femme> 
+                    <nom>Paris Hilton</nom>
+                </femme>
+                <homme>
+                    <nom>Richard Branson</nom>
+                </homme> 
+            </genre>              
+        </personnalites>
+        <politiciens>
+            <genre>
+                <femme>
+                </femme>
+                <homme>
+                    <nom>John F. Kennedy</nom>
+                </homme>
+            </genre>
+        </politiciens>
+        <ecrivains>
+            <genre>
+                <femme>
+                </femme>
+                <homme>
+                    <nom>Gustave Flaubert</nom>
+                </homme>
+            </genre>
+        </ecrivains>
+        <scientifiques>
+            <genre>
+                <femme>
+                </femme>
+                <homme>
+                    <nom>Albert Einstein</nom>
+                    <nom>Léonard de Vinci</nom>
+                </homme>
+            </genre>
+        </scientifiques>   
+        <realisateurs>
+            <genre>
+                <femme>
+                </femme>
+                <homme>
+                    <nom>Steven Spielberg</nom>
+                </homme>
+            </genre>
+        </realisateurs>
+    </tdah>
+</celebrites_TB_TDAH>
+

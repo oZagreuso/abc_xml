@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emplois>
+
+    <offres_emplois>
+
+        <intitule>Développeur PHP</intitule>
+        <ville>Paris</ville>
+        <description>
+            <tache>Analyser et développer une nouvelle application de recueil d'informations auprès des utilisateurs</tache>
+            <avantages>Repas offerts</avantages>
+            <profil>Bac +5 dans le domaine du développement Web et Mobile</profil>
+        </description>
+
+        <intitule>Développeur JAVA</intitule>
+        <ville>Mulhouse</ville>
+        <description>
+            <tache>Etre le boss de java</tache>
+            <avantages>Voiture de fonction de luxe</avantages>
+            <profil>Bac +3 web développement</profil>
+        </description>
+
+        <intitule>Développeur NodeJS</intitule>
+        <ville>Toulouse</ville>
+        <description>
+            <tache>Péparer des nouilles</tache>
+            <avantages>Garçonnière</avantages>
+            <profil>Bac + 8 en pâtisserie</profil>
+        </description>
+
+    </offres_emplois>
+
+</emplois>
+   

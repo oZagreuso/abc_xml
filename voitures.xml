@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voitures>
+    <suv>
+        <marque>Porsche</marque>
+            <modele>Cayenne</modele>
+                <caracteristiques>
+                    <vitesse_max>245-295 km/h</vitesse_max>
+                    <puissance>250-500 kW</puissance>
+                    <consommation>3,1-14L/100km</consommation>
+                </caracteristiques>
+            <modele>Macan</modele>
+                <caracteristiques>
+                    <vitesse_max>250-290 km/h</vitesse_max>
+                    <puissance>195-324 kW</puissance>
+                    <consommation>3-12L/100km</consommation>
+                </caracteristiques>
+        <marque>Lamborghini</marque>
+            <modele>Urus</modele>
+                <caracteristiques>
+                    <vitesse_max>305 km/h</vitesse_max>
+                    <puissance>200-478 kW</puissance>
+                    <consommation>14,1-19,2L/100km</consommation>
+                </caracteristiques>       
+    </suv>
+    <coupe>
+        <marque>Jaguar</marque>
+            <modele>F-Type</modele>
+                <caracteristiques>
+                    <vitesse_max>250-300 km/h</vitesse_max>
+                    <puissance>331 kW</puissance>
+                    <consommation>9,4-11L/100km</consommation>
+                </caracteristiques>        
+        <marque>BMW</marque>
+            <modele>Serie 8</modele>
+                <caracteristiques>
+                    <vitesse_max>250 km/h</vitesse_max>
+                    <puissance>390-530</puissance>
+                    <consommation>6,7-11L/100km</consommation>
+                </caracteristiques>
+        <marque>Alpine</marque>
+            <modele>A110</modele>
+                <caracteristiques>
+                    <vitesse_max>250 km/h</vitesse_max>
+                    <puissance>185 kW</puissance>
+                    <consommation>6,8-6,9L/100km</consommation>
+                </caracteristiques>
+    </coupe>
+</voitures>

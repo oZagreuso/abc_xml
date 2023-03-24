@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films_semaine>        
+        <comedies>
+            <titre>La cité de la peur</titre>
+                <realisateur>Alain Berberian</realisateur>
+                <roles>
+                    <actrice>Chantal Lauby</actrice>
+                    <acteur>Alain Chabat</acteur>
+                </roles>
+                <date_sortie>9 mars 1994</date_sortie>
+            <titre>Les visiteurs</titre>
+                <realisateur>Jean-Marie Poiré</realisateur>
+                <roles>
+                    <actrice>Valérie Lemercier</actrice>
+                    <acteur>Jean Reno</acteur>
+                </roles>
+                <date_sortie> sortie>27 janvier 1993</date_sortie>            
+        </comedies>
+        <romantiques>
+            <titre>Le fabuleux destin d'Amélie Poulain</titre>
+                <realisateur>Jean-Pierre Jeunet</realisateur>
+                <roles>
+                    <actrices>Audrey Tautou</actrices>
+                    <acteurs>Mathieu Kassovitz</acteurs>
+                </roles>
+                <date_sortie>25 avril 2001</date_sortie>            
+        </romantiques>
+        <science_fiction>
+            <titre>Indiana Jones et le temple Maudit</titre>
+                <realisateur>Steven Spielberg</realisateur>
+                <roles>
+                    <actrice>Kate Capshaw</actrice>
+                    <acteur>Harrison Ford</acteur>
+                    <date_sortie>8 mai 1984</date_sortie>
+                </roles>
+            <titre>Avatar</titre>
+                <realisateur>James Cameron</realisateur>
+                <roles>
+                    <actrice>Zoe Saldana</actrice>
+                    <acteur>Sam Worthington</acteur>
+                </roles>
+                <date_sortie>16 décembre 2009</date_sortie>
+        </science_fiction>         
+</films_semaine>
+
+
+            

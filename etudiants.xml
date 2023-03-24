@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etudiants>    
+    <nom>Dal Ferro
+        <prenom>Olivier</prenom>
+        <date_naissance>25/02/1983</date_naissance>
+        <email>Odalferro@gmail.com</email>
+        <formation>
+            <intitule>DWWM</intitule>
+            <duree>12 mois</duree>
+            <debut>17/04/2023</debut>
+            <fin>17/04/2024</fin>
+        </formation>
+    </nom>
+    <nom>DESPLANTES
+        <prenom>Guillaume</prenom>
+        <date_naissance>25/02/2003</date_naissance>
+        <email>Gdesplantes@gmail.com</email>
+        <formation>
+            <intitule>CDA</intitule>
+            <duree>14 mois </duree>
+            <debut>17/04/2023</debut>
+            <fin>17/06/2023</fin>
+        </formation>
+    </nom>
+    <nom>Muller
+        <prenom>Raphael</prenom>
+        <date_naissance>25/02/1903</date_naissance>
+        <email>Rmuller@gmail.com</email>
+        <formation>
+            <intitule>CDA</intitule>
+            <duree>14 mois </duree>
+            <debut>17/04/2023</debut>
+            <fin>17/06/2023</fin>
+        </formation>
+    </nom>
+</etudiants>
+    
+    
+
